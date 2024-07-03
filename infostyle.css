@@ -1,0 +1,42 @@
+ul{
+    list-style-type:none;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    display: inline; 
+    padding:20px;
+}
+.hex img{
+    margin-left: 700px;
+    height: 500px;
+    width: 500px;
+ 
+}
+img{
+    height: 40px;
+    width: 80px;
+}
+p{
+    font-size: 20px;
+    padding: 5px;
+    margin: 0 0 0 250px;
+}
+.hex p{
+    margin: 30px 0 0 0;
+    width: 650px;
+}
+.button 
+{
+    border: 80px;
+    padding: 15px;
+}
+.hex{
+    padding: 5px;
+    background-color: blue;
+}
+.def{
+    font-size: 20px;
+    padding: 5px;
+    margin: 0 0 0 50px;
+}
